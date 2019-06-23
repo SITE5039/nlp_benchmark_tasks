@@ -11,4 +11,10 @@ there can be a higher chances of the code being bug-free.
 - Jupyter notebooks are highly discouraged. We strictly discourage commiting any of such notebooks into this repository. 
 Also, we softly discourage the usage of it for upstream experimentations (except for the case of Google Colab). If you
 disagree on our advise, we suggest you to read this [slides](https://docs.google.com/presentation/d/1d2DSmPY0dkr4jhD5aTfwdoBZEON_AQNp7w2Nr9mM7GU/edit?usp=sharing)
-from the Workshop on Reproducible AI, AAAI 2019. 
+from the Workshop on Reproducible AI, AAAI 2019.
+- Currently, the plan is to have only one contributor who can control the master branch. Which means all other 
+contributors should work on their branches and create a Pull Request against the master for the changes to get 
+accepted. 
+- Communication between the contributors regarding the status of the project, ideas, backlogs etc., must be made only through 
+features available within GitHub like Issues, Projects, and Pull Requests. The reason for this is to preserve the history. 
+
