@@ -6,7 +6,7 @@ be a copy from respective author repositories or extensions to such a copy or to
 NLP as it can help in performance testing of their upstream models. Also, as this repo is maintained by multiple students, 
 there can be a higher chances of the code being bug-free. 
 
-#### Some advise to the contributors
+#### Advise to the contributors
 
 - Jupyter notebooks are highly discouraged. We strictly discourage commiting any of such notebooks into this repository. 
 Also, we softly discourage the usage of it for upstream experimentations (except for the case of Google Colab). If you
@@ -16,5 +16,5 @@ from the Workshop on Reproducible AI, AAAI 2019.
 contributors should work on their branches and create a Pull Request against the master for the changes to get 
 accepted. 
 - Communication between the contributors regarding the status of the project, ideas, backlogs etc., must be made only through 
-features available within GitHub like Issues, Projects, and Pull Requests. The reason for this is to preserve the history. 
+features available within GitHub like Wiki, Issues, Projects, and Pull Requests. The reason for this is to preserve the history. 
 
