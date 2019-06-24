@@ -9,7 +9,7 @@ there can be a higher chances of the code being bug-free.
 #### Advise to the contributors
 
 - Jupyter notebooks are highly discouraged. We strictly discourage commiting any of such notebooks into this repository. 
-Also, we softly discourage the usage of it for upstream experimentations (except for the case of Google Colab). If you
+Also, we softly discourage the usage of it even for upstream experimentations (except for the case of Google Colab). If you
 disagree on our advise, we suggest you to read this [slides](https://docs.google.com/presentation/d/1d2DSmPY0dkr4jhD5aTfwdoBZEON_AQNp7w2Nr9mM7GU/edit?usp=sharing)
 from the Workshop on Reproducible AI, AAAI 2019.
 - Currently, the plan is to have only one contributor who can control the master branch. Which means all other 
