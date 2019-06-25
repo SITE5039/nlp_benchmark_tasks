@@ -4,7 +4,7 @@
 be a copy from respective author repositories or extensions to such a copy or totally  written from scratch). 
 - The main purpose of this repo is to save time for current and future graduate students who work on areas related to 
 NLP as it can help in performance testing of their upstream models. Also, as this repo is maintained by multiple students, 
-there can be a higher chances of the code being bug-free. 
+there can be higher chances of the code being bug-free. 
 
 #### Advise to the contributors
 
